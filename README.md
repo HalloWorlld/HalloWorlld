@@ -1,5 +1,13 @@
 ### Hallo World 🌼
 
+I'm Jasmine,  
+
+✨ Interested in Software Development and Open Source Contributions <br/>
+📚 Learning Go Programming Language <br/>
+💻 Proficient in JavaScript, Python, HTML, CSS, Java <br/>
+❤️ Love learning new skills and technologies, reading books <br/>
+💬 I'd be happy to connect
+
 <!--
 **HalloWorlld/HalloWorlld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
