@@ -3,9 +3,9 @@
 I'm Jasmine,  
 
 ✨ Interested in Software Development and Open Source Contributions <br/>
-❤️ Love learning new skills and technologies, reading books <br/>
-💻 Proficient in JavaScript, Python, HTML, CSS, Java <br/>
 📚 Learning Go Programming Language <br/>
+💻 Proficient in JavaScript, Python, HTML, CSS, Java <br/>
+❤️ Love learning new skills and technologies, reading books <br/>
 💬 I'd be happy to connect
 
 <!--
