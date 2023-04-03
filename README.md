@@ -1,4 +1,4 @@
-### Hallo World 🌼
+### Hello World 🌼
 
 I'm Jasmine,  
 
